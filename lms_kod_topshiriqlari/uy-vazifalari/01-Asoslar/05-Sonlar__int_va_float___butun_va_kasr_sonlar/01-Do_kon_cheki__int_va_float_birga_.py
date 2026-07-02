@@ -1,5 +1,5 @@
 mahsulot1 = "Non"
-narxi1 = 4500
+narx1 = 4500
 mahsulot2 = "Sut"
 narx2 = 12.5
 print("=== CHEK ===")
