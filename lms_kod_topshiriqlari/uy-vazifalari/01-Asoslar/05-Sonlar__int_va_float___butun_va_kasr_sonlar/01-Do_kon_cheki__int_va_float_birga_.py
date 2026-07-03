@@ -5,4 +5,4 @@ narx2 = 12.5
 print("=== CHEK ===")
 print(mahsulot1, "-", narx1)
 print(mahsulot2, "-", narx2)
-print("Rahmat, yana keling!")
+print("Rahmat!")
