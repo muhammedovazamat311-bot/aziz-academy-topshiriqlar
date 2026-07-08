@@ -1,0 +1,6 @@
+matn = input()
+soz = input()
+son = matn.count(soz)
+natija = matn.replace(soz, soz.upper())
+print(natija)
+print(son)
