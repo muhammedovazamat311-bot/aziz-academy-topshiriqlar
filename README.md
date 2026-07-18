@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — MUHAMMEDOV AZAMAT
+# 🎓 Aziz Academy — Muhammedov Azamat
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **35290**
-- 📤 GitHubga yuborilgan topshiriqlar: **444**
+- ⭐ Jami ball: **35455**
+- 📤 GitHubga yuborilgan topshiriqlar: **445**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-14 12:06</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 07:04</sub>
