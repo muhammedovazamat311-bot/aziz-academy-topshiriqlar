@@ -1,0 +1,22 @@
+/* TODO: rang, shrift, markazlashtirishni shu yerda yozing */
+body { font-family: system-ui, sans-serif; padding: 24px; }
+body {
+    text-align: center;
+    background-color: #0b1220;
+    color: #ffffff;
+    font-family: system-ui, sans-serif;
+    padding: 24px;
+}<!DOCTYPE html>
+<html>
+<head>
+    <title>Shaxsiy  vizitka</title>
+</head>
+<body>
+    <h1>Azamat</h1>
+    <p>
+       Men dasturlashni o'rganayotgan o'quvchiman.
+       Kelajakda web dasturchi bo'lishni xohlayman.
+       HTML, CSS va Python tillari bilan ishlayabman.
+    </p>
+</body>
+<html>
